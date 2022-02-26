@@ -1,0 +1,17 @@
+public class LearnMain {
+    public static void main(String[] args) {
+    //Условия: если в магазине покупают более чем 3 товара - 10% скидка
+    int bonus;
+    int discount = 10;
+    int purchaseItem = 5;
+    final int DISCOUNT_LIMIT = 3;
+    if (purchaseItem > DISCOUNT_LIMIT) {
+        bonus = discount;
+    }
+    else {
+        bonus = 0;
+    }
+    System.out.println(bonus);
+
+    }
+}
