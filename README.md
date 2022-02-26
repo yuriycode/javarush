@@ -1,6 +1,6 @@
-# Lectures
-Learning Java, Kotlin, Android
+# JavaRush
+Learning Java
 
-In this repository you will see how I master the basics of the coolest Java, Kotlin, Android on the famous resources.
+In this repository you will see how I master the basics of the coolest Java language on the famous resource JavaRush.
 
 Thank you for following my profile, I will show my knowledge!
